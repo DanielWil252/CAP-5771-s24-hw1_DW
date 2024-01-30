@@ -12,7 +12,7 @@ def question3_3():
     return answer 
 
 def question3_4():
-    answer = ['continuous','quanitative','ratio']
+    answer = ['continuous','quantitative','ratio']
     return answer
 
 def question3_5():

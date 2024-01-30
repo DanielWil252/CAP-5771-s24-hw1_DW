@@ -14,16 +14,16 @@ def question9_2():
 
 def question9_3():
     #multi-dimensional similarity.
-    answer = 'Euclidian'
+    answer = 'euclidean'
     return answer 
 
 def question9_4():
     #multidimensional attributes.
-    answer = 'Euclidian'
+    answer = 'euclidean'
     return answer 
 
 def question9_5():
     #presence of many items.
-    answer = 'Euclidian'
+    answer = 'euclidean'
     return answer 
 
