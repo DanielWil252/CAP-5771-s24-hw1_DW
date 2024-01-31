@@ -10,11 +10,11 @@ def question4_2():
 
 def question4_3():
     #check answer
-    answer = ['ratio','nominal']
+    answer = ['ratio','ordinal']
     return answer 
 
 def question4_4():
-    answer = ['ratio','nominal']
+    answer = ['ratio','ordinal']
     return answer
 
 def question4_5():
@@ -26,7 +26,7 @@ def question4_6():
     return answer
 
 def question4_7():
-    answer = ['ratio','ratio']
+    answer = ['ratio','interval']
     return answer
 
 def question4_8():
