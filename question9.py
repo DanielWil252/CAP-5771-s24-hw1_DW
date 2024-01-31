@@ -24,6 +24,6 @@ def question9_4():
 
 def question9_5():
     #presence of many items.
-    answer = 'euclidean'
+    answer = 'Cosine Similarity '
     return answer 
 
